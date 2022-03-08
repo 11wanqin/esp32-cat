@@ -1,0 +1,12 @@
+Add Pin To Net: Pin=CN1-5 Old Net=NetCN1_5 New Net=SENSOR_VN
+Add Pin To Net: Pin=CN1-7 Old Net=NetCN1_7 New Net=MPU_SDA
+Add Pin To Net: Pin=CN1-9 Old Net=NetCN1_9 New Net=MPU_SCL
+Add Pin To Net: Pin=CN1-11 Old Net=NetCN1_11 New Net=GPIO25
+Add Pin To Net: Pin=CN1-13 Old Net=NetCN1_13 New Net=RGB_LED
+Add Pin To Net: Pin=CN1-15 Old Net=NetCN1_15 New Net=GPIO12
+Add Pin To Net: Pin=CN2-5 Old Net=NetCN2_5 New Net=GPIO21
+Add Pin To Net: Pin=CN2-7 Old Net=NetCN2_7 New Net=GPIO22
+Add Pin To Net: Pin=CN2-9 Old Net=NetCN2_9 New Net=GPIO19
+Add Pin To Net: Pin=CN2-11 Old Net=NetCN2_11 New Net=GPIO38
+Add Pin To Net: Pin=CN2-13 Old Net=NetCN2_13 New Net=GPIO37
+Add Pin To Net: Pin=CN2-15 Old Net=NetCN2_15 New Net=SENSOR_VP

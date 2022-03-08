@@ -1,0 +1,402 @@
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C10 NewDesignator=C14
+Added Component: Designator=*1(LP5907MFX-3.3V)
+Added Component: Designator=*2(TF-SMD_TF-021B-H265)
+Added Component: Designator=C1(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP-SMD_L3.5-W2.8)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Hunan Xiangyee in S&T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CA45-B016M476T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C435294"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CA45-B016M476T"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(DF40C-20DP-0.4V)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "HRS(¹ãäþ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DF40C-20DP-0.4V(51)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C424637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DF40C-20DP-0.4V(51)"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(DF40C-20DP-0.4V)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "HRS(¹ãäþ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DF40C-20DP-0.4V(51)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C424637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DF40C-20DP-0.4V(51)"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0402_GREEN)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0402_GREEN)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-SMD_4P-L5.0-W5.0-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C114585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "WS2812B"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "FUXINSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "S8050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C908252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "S8050_C908252"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "FUXINSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "S8050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C908252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "S8050_C908252"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23-3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23-3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW-SMD_1TS002G-XXXX-3500-CT)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "HYP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1TS002G-2500-3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C255804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "1TS002G-2500-3500"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW-SMD_1TS002G-XXXX-3500-CT)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "HYP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1TS002G-2500-3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C255804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "1TS002G-2500-3500"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN-48_L7.0-W7.0-P0.50-BL-EP5.1)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "ESP32-PICO-D4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C193707"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "ESP32-PICO-D4"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOP-16_L10.0-W3.9-P1.27-LS6.0-BL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CH340C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Paste Type"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C84681"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CH340C"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP)
+Added Pin To Net: NetName=CHAR_5V Pin=*1-1
+Added Pin To Net: NetName=CS Pin=*1-2
+Added Pin To Net: NetName=CS Pin=*1-4
+Added Pin To Net: NetName=VCC3_3V Pin=*1-5
+Added Pin To Net: NetName=GPIO15 Pin=*2-2
+Added Pin To Net: NetName=GPIO13 Pin=*2-3
+Added Pin To Net: NetName=VCC3_3V Pin=*2-4
+Added Pin To Net: NetName=GPIO14 Pin=*2-5
+Added Pin To Net: NetName=CS Pin=*2-6
+Added Pin To Net: NetName=GPIO26 Pin=*2-7
+Added Pin To Net: NetName=CS Pin=*2-9
+Added Pin To Net: NetName=CS Pin=*2-10
+Added Pin To Net: NetName=VCC3_3V Pin=C1-1
+Added Pin To Net: NetName=CS Pin=C1-2
+Added Pin To Net: NetName=VCC3_3V Pin=C2-1
+Added Pin To Net: NetName=CS Pin=C2-2
+Added Pin To Net: NetName=CS Pin=C3-1
+Added Pin To Net: NetName=CHAR_5V Pin=C3-2
+Added Pin To Net: NetName=VCC3_3V Pin=C4-1
+Added Pin To Net: NetName=CS Pin=C4-2
+Added Pin To Net: NetName=VCC3_3V Pin=C5-1
+Added Pin To Net: NetName=CS Pin=C5-2
+Added Pin To Net: NetName=VCC3_3V Pin=C6-1
+Added Pin To Net: NetName=CS Pin=C6-2
+Added Pin To Net: NetName=VCC3_3V Pin=C7-1
+Added Pin To Net: NetName=CS Pin=C7-2
+Added Pin To Net: NetName=CS Pin=C8-1
+Added Pin To Net: NetName=EN Pin=C8-2
+Added Pin To Net: NetName=VDD_SDIO Pin=C9-1
+Added Pin To Net: NetName=CS Pin=C9-2
+Added Pin To Net: NetName=CS Pin=C10-1
+Added Pin To Net: NetName=GPIO35 Pin=C10-2
+Added Pin To Net: NetName=CS Pin=CN1-1
+Added Pin To Net: NetName=CS Pin=CN1-2
+Added Pin To Net: NetName=CHAR_5V Pin=CN1-3
+Added Pin To Net: NetName=VCC3_3V Pin=CN1-4
+Added Pin To Net: NetName=GPIO4 Pin=CN1-6
+Added Pin To Net: NetName=D/C Pin=CN1-8
+Added Pin To Net: NetName=GPIO18 Pin=CN1-10
+Added Pin To Net: NetName=GPIO23 Pin=CN1-12
+Added Pin To Net: NetName=VCC3_3V Pin=CN1-14
+Added Pin To Net: NetName=LEDA Pin=CN1-16
+Added Pin To Net: NetName=VCC3_3V Pin=CN1-17
+Added Pin To Net: NetName=CHAR_5V Pin=CN1-18
+Added Pin To Net: NetName=CS Pin=CN1-19
+Added Pin To Net: NetName=CS Pin=CN1-20
+Added Pin To Net: NetName=CS Pin=CN1-21
+Added Pin To Net: NetName=CS Pin=CN1-22
+Added Pin To Net: NetName=CS Pin=CN1-23
+Added Pin To Net: NetName=CS Pin=CN1-24
+Added Pin To Net: NetName=CS Pin=CN2-1
+Added Pin To Net: NetName=CS Pin=CN2-2
+Added Pin To Net: NetName=VCC3_3V Pin=CN2-3
+Added Pin To Net: NetName=VCC3_3V Pin=CN2-4
+Added Pin To Net: NetName=VCC3_3V Pin=CN2-17
+Added Pin To Net: NetName=VCC3_3V Pin=CN2-18
+Added Pin To Net: NetName=CS Pin=CN2-19
+Added Pin To Net: NetName=CS Pin=CN2-20
+Added Pin To Net: NetName=CS Pin=CN2-21
+Added Pin To Net: NetName=CS Pin=CN2-22
+Added Pin To Net: NetName=CS Pin=CN2-23
+Added Pin To Net: NetName=CS Pin=CN2-24
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=CS Pin=D1-2
+Added Pin To Net: NetName=GPIO34 Pin=D2-2
+Added Pin To Net: NetName=VCC_5V Pin=LED1-1
+Added Pin To Net: NetName=CS Pin=LED1-3
+Added Pin To Net: NetName=GPIO27 Pin=LED1-4
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=RTS Pin=Q1-2
+Added Pin To Net: NetName=EN Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=DTR Pin=Q2-2
+Added Pin To Net: NetName=GPIO0 Pin=Q2-3
+Added Pin To Net: NetName=GPIO5 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=LEDA Pin=Q3-3
+Added Pin To Net: NetName=GPIO9 Pin=Q4-1
+Added Pin To Net: NetName=VCC_5V Pin=Q4-2
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC3_3V Pin=R1-2
+Added Pin To Net: NetName=CHAR_5V Pin=R2-2
+Added Pin To Net: NetName=TXD Pin=R3-2
+Added Pin To Net: NetName=EN Pin=R4-1
+Added Pin To Net: NetName=VCC3_3V Pin=R4-2
+Added Pin To Net: NetName=DTR Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Pin To Net: NetName=GPIO26 Pin=R6-1
+Added Pin To Net: NetName=VCC3_3V Pin=R6-2
+Added Pin To Net: NetName=GPIO13 Pin=R7-1
+Added Pin To Net: NetName=VCC3_3V Pin=R7-2
+Added Pin To Net: NetName=GPIO14 Pin=R8-1
+Added Pin To Net: NetName=VCC3_3V Pin=R8-2
+Added Pin To Net: NetName=RTS Pin=R9-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R9-2
+Added Pin To Net: NetName=GPIO15 Pin=R10-1
+Added Pin To Net: NetName=VCC3_3V Pin=R10-2
+Added Pin To Net: NetName=VCC3_3V Pin=R11-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R12-1
+Added Pin To Net: NetName=VCC3_3V Pin=R12-2
+Added Pin To Net: NetName=GPIO35 Pin=R13-1
+Added Pin To Net: NetName=VCC3_3V Pin=R13-2
+Added Pin To Net: NetName=GPIO9 Pin=R14-1
+Added Pin To Net: NetName=VCC_5V Pin=R14-2
+Added Pin To Net: NetName=CS Pin=SW1-1
+Added Pin To Net: NetName=GPIO35 Pin=SW1-2
+Added Pin To Net: NetName=CS Pin=SW1-3
+Added Pin To Net: NetName=CS Pin=SW1-4
+Added Pin To Net: NetName=CS Pin=SW2-1
+Added Pin To Net: NetName=EN Pin=SW2-2
+Added Pin To Net: NetName=CS Pin=SW2-3
+Added Pin To Net: NetName=CS Pin=SW2-4
+Added Pin To Net: NetName=VCC3_3V Pin=U1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-2
+Added Pin To Net: NetName=VCC3_3V Pin=U1-3
+Added Pin To Net: NetName=VCC3_3V Pin=U1-4
+Added Pin To Net: NetName=SENSOR_VP Pin=U1-5
+Added Pin To Net: NetName=GPIO37 Pin=U1-6
+Added Pin To Net: NetName=GPIO38 Pin=U1-7
+Added Pin To Net: NetName=SENSOR_VN Pin=U1-8
+Added Pin To Net: NetName=EN Pin=U1-9
+Added Pin To Net: NetName=GPIO34 Pin=U1-10
+Added Pin To Net: NetName=GPIO35 Pin=U1-11
+Added Pin To Net: NetName=BH_SDA Pin=U1-12
+Added Pin To Net: NetName=BH_SCL Pin=U1-13
+Added Pin To Net: NetName=GPIO25 Pin=U1-14
+Added Pin To Net: NetName=GPIO26 Pin=U1-15
+Added Pin To Net: NetName=GPIO27 Pin=U1-16
+Added Pin To Net: NetName=GPIO14 Pin=U1-17
+Added Pin To Net: NetName=GPIO12 Pin=U1-18
+Added Pin To Net: NetName=VCC3_3V Pin=U1-19
+Added Pin To Net: NetName=GPIO13 Pin=U1-20
+Added Pin To Net: NetName=GPIO15 Pin=U1-21
+Added Pin To Net: NetName=D/C Pin=U1-22
+Added Pin To Net: NetName=GPIO0 Pin=U1-23
+Added Pin To Net: NetName=GPIO4 Pin=U1-24
+Added Pin To Net: NetName=FLASH_CS Pin=U1-25
+Added Pin To Net: NetName=VDD_SDIO Pin=U1-26
+Added Pin To Net: NetName=SIO1 Pin=U1-27
+Added Pin To Net: NetName=GPIO9 Pin=U1-28
+Added Pin To Net: NetName=PSRAM_CS Pin=U1-29
+Added Pin To Net: NetName=SIO3 Pin=U1-30
+Added Pin To Net: NetName=SCLK Pin=U1-31
+Added Pin To Net: NetName=SIO2 Pin=U1-32
+Added Pin To Net: NetName=SIO0 Pin=U1-33
+Added Pin To Net: NetName=GPIO5 Pin=U1-34
+Added Pin To Net: NetName=GPIO18 Pin=U1-35
+Added Pin To Net: NetName=GPIO23 Pin=U1-36
+Added Pin To Net: NetName=VCC3_3V Pin=U1-37
+Added Pin To Net: NetName=GPIO19 Pin=U1-38
+Added Pin To Net: NetName=GPIO22 Pin=U1-39
+Added Pin To Net: NetName=TXD Pin=U1-40
+Added Pin To Net: NetName=RXD Pin=U1-41
+Added Pin To Net: NetName=GPIO21 Pin=U1-42
+Added Pin To Net: NetName=VCC3_3V Pin=U1-43
+Added Pin To Net: NetName=VCC3_3V Pin=U1-46
+Added Pin To Net: NetName=CS Pin=U1-49
+Added Pin To Net: NetName=CS Pin=U2-1
+Added Pin To Net: NetName=RXD Pin=U2-3
+Added Pin To Net: NetName=VCC3_3V Pin=U2-4
+Added Pin To Net: NetName=USB2C_P Pin=U2-5
+Added Pin To Net: NetName=USB2C_N Pin=U2-6
+Added Pin To Net: NetName=DTR Pin=U2-13
+Added Pin To Net: NetName=RTS Pin=U2-14
+Added Pin To Net: NetName=VCC3_3V Pin=U2-16
+Added Pin To Net: NetName=PSRAM_CS Pin=U3-1
+Added Pin To Net: NetName=SIO1 Pin=U3-2
+Added Pin To Net: NetName=SIO2 Pin=U3-3
+Added Pin To Net: NetName=CS Pin=U3-4
+Added Pin To Net: NetName=SIO0 Pin=U3-5
+Added Pin To Net: NetName=SCLK Pin=U3-6
+Added Pin To Net: NetName=SIO3 Pin=U3-7
+Added Pin To Net: NetName=VDD_SDIO Pin=U3-8
+Change Net Name : Old Net Name=CS New Net Name=GND
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=SENSOR_VN New Net Name=GPIO39
+Change Net Name : Old Net Name=SENSOR_VP New Net Name=GPIO36
+Added Pin To Net: NetName=MOS_OUT Pin=Q4-3
+Added Net: Name=MOS_OUT
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R11-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=PWR_EN Pin=*1-3
+Added Pin To Net: NetName=PWR_EN Pin=R2-1
+Added Net: Name=PWR_EN
+Added Member To Class: ClassName=Main Member=Component *1 LP5907MFX-3.3V
+Added Member To Class: ClassName=Main Member=Component *2 TF¡ª08-375
+Added Member To Class: ClassName=Main Member=Component C1 1uF
+Added Member To Class: ClassName=Main Member=Component C2 3528-îãµçÈÝ
+Added Member To Class: ClassName=Main Member=Component C3 1uF
+Added Member To Class: ClassName=Main Member=Component C4 0.1uF
+Added Member To Class: ClassName=Main Member=Component C5 10uF
+Added Member To Class: ClassName=Main Member=Component C6 10uF
+Added Member To Class: ClassName=Main Member=Component C7 0.1uF
+Added Member To Class: ClassName=Main Member=Component C8 10uF
+Added Member To Class: ClassName=Main Member=Component C9 0.1uF
+Added Member To Class: ClassName=Main Member=Component C10 10uF
+Added Member To Class: ClassName=Main Member=Component C11 2.2nf
+Added Member To Class: ClassName=Main Member=Component C12 10nf
+Added Member To Class: ClassName=Main Member=Component C13 0.1uF
+Added Member To Class: ClassName=Main Member=Component C14 0.1uF
+Added Member To Class: ClassName=Main Member=Component CN1 DF40C-20DP-0.4V(51)
+Added Member To Class: ClassName=Main Member=Component CN2 DF40C-20DP-0.4V(51)
+Added Member To Class: ClassName=Main Member=Component D1 color?
+Added Member To Class: ClassName=Main Member=Component D2 color?
+Added Member To Class: ClassName=Main Member=Component L1 AN2051-245
+Added Member To Class: ClassName=Main Member=Component LED1 WS2812B
+Added Member To Class: ClassName=Main Member=Component Q1 S8050_C908252
+Added Member To Class: ClassName=Main Member=Component Q2 S8050_C908252
+Added Member To Class: ClassName=Main Member=Component Q3 AO3415A
+Added Member To Class: ClassName=Main Member=Component Q4 AO3415A
+Added Member To Class: ClassName=Main Member=Component R1 5K
+Added Member To Class: ClassName=Main Member=Component R2 10K
+Added Member To Class: ClassName=Main Member=Component R3 220R
+Added Member To Class: ClassName=Main Member=Component R4 10K
+Added Member To Class: ClassName=Main Member=Component R5 10K
+Added Member To Class: ClassName=Main Member=Component R6 10K
+Added Member To Class: ClassName=Main Member=Component R7 10K
+Added Member To Class: ClassName=Main Member=Component R8 10K
+Added Member To Class: ClassName=Main Member=Component R9 10K
+Added Member To Class: ClassName=Main Member=Component R10 10K
+Added Member To Class: ClassName=Main Member=Component R11 5K
+Added Member To Class: ClassName=Main Member=Component R12 20R
+Added Member To Class: ClassName=Main Member=Component R13 10K
+Added Member To Class: ClassName=Main Member=Component R14 2k
+Added Member To Class: ClassName=Main Member=Component SW1 1TS002G-2500-3500
+Added Member To Class: ClassName=Main Member=Component SW2 1TS002G-2500-3500
+Added Member To Class: ClassName=Main Member=Component U1 ESP32-PICO-D4
+Added Member To Class: ClassName=Main Member=Component U2 CH340C
+Added Member To Class: ClassName=Main Member=Component U3 IPS6404L-SQ-SPN
+Added Member To Class: ClassName=Main Member=Component U4 MPU-6050_C24112
+Added Member To Class: ClassName=Main Member=Component USB1 TYPE-C-16P

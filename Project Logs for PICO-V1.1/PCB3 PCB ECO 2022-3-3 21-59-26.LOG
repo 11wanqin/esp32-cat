@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U3-9
+Change Component Footprint: Designator=C2 Old Footprint=CAP-SMD_L3.5-W2.8 New Footprint=CAP_0402
+Change Component Comment : Designator=C2 Old Comment=3528-Ó„µÁ»› New Comment=1uF
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP-SMD_L3.5-W2.8"; UniqueID = "\AORLGFBO" ("\AORLGFBO")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component C7 0.1uF
+Added Member To Class: ClassName=Main Member=Component C8 10uF
+Added Member To Class: ClassName=Main Member=Component C9 0.1uF
+Added Member To Class: ClassName=Main Member=Component C10 10uF

@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYONGGFS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PICO-V1.1\Design Rule Check - PCB3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GPIO35 Pin=SW1-4
+Removed Pin From Net: NetName=EN Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-4
+Change Net Color : Old Net Color=White New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

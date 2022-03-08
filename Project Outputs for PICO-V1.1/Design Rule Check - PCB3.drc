@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : E:\Home\working_space\PCB\esp32-pico-test\pico-finaly\PICO-V1.1\PICO-V1.1\esp32-cat\PCB3.PcbDoc
+Date     : 2022/3/8
+Time     : 19:06:19
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (3.57mil < 6mil) Between Arc (3114.955mil,2893.866mil) on Keep-Out Layer And Pad USB1-4(3109.08mil,2829.078mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3.934mil < 6mil) Between Arc (3115.455mil,2423.77mil) on Keep-Out Layer And Pad USB1-3(3109.08mil,2488.922mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3.742mil < 6mil) Between Arc (3119.499mil,2811.332mil) on Keep-Out Layer And Pad USB1-4(3109.08mil,2829.078mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3.905mil < 6mil) Between Arc (3119.892mil,2506.28mil) on Keep-Out Layer And Pad USB1-3(3109.08mil,2488.922mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3.934mil < 6mil) Between Pad USB1-3(3109.08mil,2488.922mil) on Multi-Layer And Track (3115.455mil,2456.366mil)(3119.892mil,2456.366mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (3.666mil < 6mil) Between Pad USB1-4(3109.08mil,2829.078mil) on Multi-Layer And Track (3114.955mil,2861.366mil)(3119.499mil,2861.366mil) on Keep-Out Layer 
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=10mil) (Preferred=4mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:01

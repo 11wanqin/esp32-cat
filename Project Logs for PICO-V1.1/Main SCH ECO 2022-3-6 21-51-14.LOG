@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=CN2-6 Old Net=NetCN2_6 New Net=USB2C_P
+Add Pin To Net: Pin=CN2-8 Old Net=NetCN2_8 New Net=USB2C_N

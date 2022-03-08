@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=CN2-5 Old Net=GPIO21 New Net=GPIO9
+Change Pin Designator/Name:  Old Designator=CN2-5 Old Name=5 New Designator =10 New Name=10
